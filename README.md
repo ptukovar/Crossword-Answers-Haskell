@@ -32,5 +32,3 @@ ________________________________________________________________________________
 (["DAD","SEND","EAST","ITSY","NERF","ARK","SYNC","MESH","EVER","NEAR"],["DOWN","MAN","EASE","DEAR","FATHER","STINKS","YARD","STUN","DAY","CARD"])
 ```
 
-
-***EDUCATIONAL PURPOSES ONLY***
